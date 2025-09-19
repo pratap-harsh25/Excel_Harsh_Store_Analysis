@@ -4,6 +4,14 @@
 
 The **Harsh Store Analysis** project is a comprehensive analysis of sales data from a fictional retail store, **Harsh Store**, utilizing **Microsoft Excel**. The main goal is to uncover actionable insights, visualize key metrics, and improve business decision-making through an in-depth understanding of sales trends, customer behavior, and product performance.
 
+The dataset contains **30,000+ records** covering one full year of sales transactions, providing a rich base for detailed analysis.
+
+---
+## 📸 Report Screenshot
+
+Here’s a preview of the Excel dashboard/report from the project:
+
+![Harsh Store Report](Harsh_Annual_Report.PNG)
 ---
 
 ## 📁 **Project Structure**
